@@ -2,7 +2,7 @@
 
 ***
 
-<h4 align="left">A passionate software developer from the beautiful country of Portugal, looking to learn more about the world of programming. </h4> 
+A passionate software developer from Portugal, looking to learn more about the world of programming.
 
 - 💼 I'm currently working as a Embedded Software Developer and a Scrum Master
 - 📄 Know about my [experiences](https://github.com/claudialearns/claudialearns/blob/main/Curriculum_Ana_Miranda.pdf)
