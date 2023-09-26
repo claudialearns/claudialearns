@@ -5,7 +5,7 @@
 <h4 align="left">A passionate software developer from the beautiful country of Portugal, looking to learn more about the world of programming. </h4> 
 
 - 💼 I'm currently working as a Embedded Software Developer and a Scrum Master
-- 📄 Know about my [experiences](https://github.com/claudialearns/curriculum_vitae)
+- 📄 Know about my [experiences]([https://github.com/claudialearns/curriculum_vitae](https://github.com/claudialearns/claudialearns/blob/main/Curriculum_Ana_Miranda.pdf))
 - ⚡ Fun fact: I created an Instagram account to share my journey also I am a very **motivated person** 😄
 
 ### 🌍 Get in Touch:
